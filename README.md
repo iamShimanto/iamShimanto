@@ -7,7 +7,6 @@
   <img src="https://profile-counter.glitch.me/I-Am-Shimanto/count.svg?"  />
 </div>
 
-
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
