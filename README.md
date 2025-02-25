@@ -12,7 +12,6 @@
 # 💫 About Me:
 🌱 I’m currently learning **Creative IT Institute**<br>👨‍💻 All of my projects are available at shimanto-Web-Dev<br><br>💬 Ask me about React<br><br>📫 How to reach me shimantowebdeveloper@gmail.com<br><br>⚡ Fun fact Playing Games and Watching Anime
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshimanto18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_shimanto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-shimanto) 
 
