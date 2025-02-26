@@ -23,7 +23,6 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-Am-Shimanto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
