@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=I-Am-Shimanto&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shimanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-Am-Shimanto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
