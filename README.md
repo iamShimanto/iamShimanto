@@ -1,7 +1,6 @@
 <div align="center">
   <img alt="" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&duration=4000&pause=1000&color=1CCFBE&center=true&amp&width=800&amp&lines=Hi!+Welcome+to+%7B%3C+Shimanto's+%2F+%3E%7D+Git-hub+Profile;Front-End+Developer+%7C%7C+React+Developer;Always+jump+to+Learning+%26+Improving+" alt="Typing SVG" /></a> 
 
 </div>
