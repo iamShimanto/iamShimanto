@@ -43,10 +43,6 @@
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://portfolio-shimanto.vercel.app/)
 
-<h1>Portfolio</h1>
-<p>Click to see the live demo:</p>
-<a href="https://shimanto-portfolio.vercel.app" target="_blank">
-  <img src="https://i.imgur.com/Xajizih.png" alt="Portfolio Preview" width="600" />
-</a>
+
 
 
