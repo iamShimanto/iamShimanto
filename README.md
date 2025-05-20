@@ -38,7 +38,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# Portfolio
+<h3 align="center"># Portfolio</h3>
 
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://portfolio-shimanto.vercel.app/)
