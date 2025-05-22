@@ -42,7 +42,3 @@
 
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://portfolio-shimanto.vercel.app/)
-
-
-
-
