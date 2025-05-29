@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=I-Am-Shimanto&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/>
-<a href="https://github.com/Md-Mubin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shimanto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-Am-Shimanto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -42,3 +42,13 @@
 
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://portfolio-shimanto.vercel.app/)
+
+
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=i-am-shimanto&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-am-shimanto&theme=dark&hide_border=false)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=i-am-shimanto&icon=0&color=0)](https://visitcount.itsvg.in)
