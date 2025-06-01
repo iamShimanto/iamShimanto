@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=I-Am-Shimanto&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-Am-Shimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
 
