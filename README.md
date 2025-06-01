@@ -25,6 +25,8 @@
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=I-Am-Shimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Gr%C3%A1fico%20de%20contribuciones%20de%20Edward%20G%C3%B3mez" height="300" alt="activity-graph graph"  />
+
 
 
 ---
