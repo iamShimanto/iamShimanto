@@ -32,7 +32,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 
-  <img src="https://i.pinimg.com/originals/82/16/7a/82167a22025c50b6ed1219782cc90389.gif" width="290px" alt="Animated Avatar"/>
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
