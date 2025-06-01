@@ -14,6 +14,8 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
+👋 Hi, I’m @Shimanto 
+<br/>
 🌱 I’m currently learning **Creative IT Institute**<br>👨‍💻 All of my projects are available at I-Am-Shimanto<br><br>💬 Ask me about React<br><br>📫 How to reach me shimantowebdeveloper@gmail.com<br><br>⚡ Fun fact Playing Games and Watching Anime
 
 ## 🌐 Socials:
