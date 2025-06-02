@@ -30,13 +30,13 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
   <img src="https://i.pinimg.com/originals/65/4c/44/654c44bf273abb116e92588cd155aff4.gif" width="290px" alt="Animated Avatar"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Shimanto&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Shimanto&theme=radical&hide_border=true)
 
 
 </div>
@@ -66,6 +66,4 @@
 
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://portfolio-shimanto.vercel.app/)
-
-
 
