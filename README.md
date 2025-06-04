@@ -30,7 +30,7 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
   <img src="https://i.pinimg.com/originals/65/4c/44/654c44bf273abb116e92588cd155aff4.gif" width="290px" alt="Animated Avatar"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
