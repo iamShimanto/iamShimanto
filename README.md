@@ -35,7 +35,7 @@
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Shimanto&theme=radical&hide_border=true)
 
 
