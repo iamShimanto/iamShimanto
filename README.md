@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="center">
   <br/><br/>
@@ -14,7 +15,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
-👋 Hi, I’m @Shimanto 
+### Hi! I am Shimanto. 
 <br/>
 🌱 I’m currently learning **Creative IT Institute**<br>👨‍💻 All of my projects are available at I-Am-Shimanto<br><br>💬 Ask me about React<br><br>📫 How to reach me shimantowebdeveloper@gmail.com<br><br>⚡ Fun fact Playing Games and Watching Anime
 
