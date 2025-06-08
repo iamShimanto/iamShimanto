@@ -9,7 +9,7 @@
 </div>
  
 <div align="center">
-  <img src="https://profile-counter.glitch.me/I-Am-Shimanto/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/iamShimanto/count.svg?"  />
 </div>
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
@@ -17,7 +17,7 @@
 # 💫 About Me:
 ### Hi! I am Shimanto. 
 <br/>
-🌱 I’m currently learning **Creative IT Institute**<br>👨‍💻 All of my projects are available at I-Am-Shimanto<br><br>💬 Ask me about React<br><br>📫 How to reach me shimantowebdeveloper@gmail.com<br><br>⚡ Fun fact Playing Games and Watching Anime
+🌱 I’m currently learning **Creative IT Institute**<br>👨‍💻 All of my projects are available at iamShimanto<br><br>💬 Ask me about React<br><br>📫 How to reach me shimantowebdeveloper@gmail.com<br><br>⚡ Fun fact Playing Games and Watching Anime
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshimanto18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_shimanto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-shimanto) 
@@ -31,34 +31,34 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
   <img src="https://i.pinimg.com/originals/65/4c/44/654c44bf273abb116e92588cd155aff4.gif" width="290px" alt="Animated Avatar"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=I-Am-Shimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Shimanto&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=iamShimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamShimanto&theme=radical&hide_border=true)
 
 
 </div>
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=I-Am-Shimanto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=iamShimanto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=I-Am-Shimanto&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iamShimanto&icon=6&color=9)](https://visitcount.itsvg.in)
 
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-Am-Shimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamShimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
 </div>
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=I-Am-Shimanto&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iamShimanto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
