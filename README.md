@@ -36,8 +36,8 @@
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=iamShimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamShimanto&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=iamshimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamshimanto&theme=radical&hide_border=true)
 
 
 </div>
@@ -52,7 +52,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamShimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
 </div>
 
 
