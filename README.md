@@ -13,7 +13,6 @@
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-
 # 💫 About Me:
 ### Hi! I am Shimanto. 
 <br/>
