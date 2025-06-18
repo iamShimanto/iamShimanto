@@ -26,16 +26,16 @@
 # 📊GitHub Stats :
 
 
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center;">
   <img src="https://i.pinimg.com/originals/65/4c/44/654c44bf273abb116e92588cd155aff4.gif" width="290px" alt="Animated Avatar"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=iamshimanto&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamshimanto&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=iamShimanto&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=iamShimanto&theme=dracula&hide_border=false)
 
 
 </div>
