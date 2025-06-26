@@ -35,7 +35,7 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
 ![](https://github-readme-stats.vercel.app/api?username=iamShimanto&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=iamShimanto&theme=dracula&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=iamshimanto&theme=dracula&hide_border=false)
 
 
 </div>
