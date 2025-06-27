@@ -34,7 +34,8 @@
 </div>
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=iamshimanto&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=iamshimanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+
 ![](https://nirzak-streak-stats.vercel.app/?user=iamshimanto&theme=dracula&hide_border=false)
 
 
