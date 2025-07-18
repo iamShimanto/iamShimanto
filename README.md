@@ -1,22 +1,8 @@
 
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="center">
   <br/><br/>
-  
-[![committers.top badge](https://user-badge.committers.top/bangladesh/iamShimanto.svg)](https://user-badge.committers.top/bangladesh/iamShimanto)
-  
-<h1 align="center">I Am Shimanto</h1>
-<br/><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&duration=4000&pause=1000&color=1CCFBE&center=true&amp&width=800&amp&lines=Hi!+Welcome+to+%7B%3C+Shimanto's+%2F+%3E%7D+Git-hub+Profile;Front-End+Developer+%7C%7C+React+Developer;Always+jump+to+Learning+%26+Improving+" alt="Typing SVG" /></a> 
-
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamShimanto/count.svg?"  />
-</div>
-
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
 ### Hi! I am Shimanto. 
@@ -32,31 +18,15 @@
 # 📊GitHub Stats :
 
 
-<div align="center" style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/65/4c/44/654c44bf273abb116e92588cd155aff4.gif" width="290px" alt="Animated Avatar"/>
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=iamShimanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
 
 ![](https://nirzak-streak-stats.vercel.app/?user=iamshimanto&theme=dracula&hide_border=false)
 
 
-</div>
-
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=iamShimanto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=iamShimanto&icon=6&color=9)](https://visitcount.itsvg.in)
 
 
 
-<div align="center">
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshimanto&radius=16&theme=github-dark&area=true&order=5&hide_title=false&custom_title=Shimanto's%_Profile" height="300" alt="activity-graph graph"  />
 </div>
 
