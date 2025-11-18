@@ -16,10 +16,10 @@
 
 # 📊GitHub Stats :
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=iamShimanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
 
-![](https://nirzak-streak-stats.vercel.app/?user=iamshimanto&theme=dracula&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=iamshimanto&theme=dracula&hide_border=true)
 
 
 
@@ -41,3 +41,4 @@
 
 Click to see the live demo:  
 [![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://iamshimanto.vercel.app/)
+
