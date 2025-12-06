@@ -21,7 +21,8 @@
 <a href="https://github.com/iamShimanto">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamShimanto&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamShimanto&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamShimanto&theme=2077" height="180em" /><br/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamShimanto&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamShimanto&theme=2077" height="180em" />
 </div>
 
 <br/><br/>
