@@ -44,5 +44,5 @@
 # Portfolio
 
 Click to see the live demo:  
-[![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://iamshimanto.vercel.app/)
+[![Portfolio Preview](https://i.imgur.com/Xajizih.png)](https://shimanto.dev)
 
