@@ -16,14 +16,12 @@
 
 # 📊GitHub Stats :
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamShimanto&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamShimanto&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iamShimanto&theme=github_dark_dimmed&hide_border=true)<br/>
 
-<div align="">
-<a href="https://github.com/iamShimanto">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamShimanto&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamShimanto&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamShimanto&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamShimanto&theme=2077" height="180em" />
-</div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/iamshimanto?theme=chartreuse&font=Catamaran)
 
 <br/><br/>
 
@@ -38,7 +36,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iamShimanto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 # Portfolio
