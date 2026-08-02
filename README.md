@@ -13,7 +13,7 @@
 ## 💫 About Me:
 
 🔭 &nbsp;I'm currently working at **Telefect IT Ltd**<br>
-🌱 &nbsp;I'm currently learning **Java & Spring Boot** for backend development<br>
+🌱 &nbsp;I'm currently learning Rust Programming Language<br>
 👯 &nbsp;I'm looking to collaborate on full-stack projects (Node.js, TypeScript, React)<br>
 🤝 &nbsp;I'm looking for help with scaling backend systems & infrastructure<br>
 💬 &nbsp;Ask me about Node.js, TypeScript, PostgreSQL, Docker<br>
